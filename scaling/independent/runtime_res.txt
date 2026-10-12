@@ -1,0 +1,1411 @@
+Pattern: independent
+Sparsity level: 90
+Number of Processes: 2
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 1.1562e-05s
+Scatter Time: 0.000807113s
+Reduce Time: 0.00249047s
+Allgather Time: 0.00138353s
+Other Time: 2.8465e-05s
+Sparse Allreduce Time: 0.00472114s
+Dense Allreduce Time: 0.00165612s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99931.5
+Sparse Vector Non-Zero Elements: 189907
+Results Match!
+Number of Processes: 4
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 2.601e-05s
+Scatter Time: 0.000895173s
+Reduce Time: 0.00325264s
+Allgather Time: 0.00327024s
+Other Time: 2.6912e-05s
+Sparse Allreduce Time: 0.00747097s
+Dense Allreduce Time: 0.00236951s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99806.2
+Sparse Vector Non-Zero Elements: 343509
+Results Match!
+Number of Processes: 6
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 3.0709e-05s
+Scatter Time: 0.000559052s
+Reduce Time: 0.00317668s
+Allgather Time: 0.00331878s
+Other Time: 2.3054e-05s
+Sparse Allreduce Time: 0.00710827s
+Dense Allreduce Time: 0.00506587s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99800.3
+Sparse Vector Non-Zero Elements: 467732
+Results Match!
+Number of Processes: 8
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 3.3074e-05s
+Scatter Time: 0.0010281s
+Reduce Time: 0.0037839s
+Allgather Time: 0.00444013s
+Other Time: 2.1471e-05s
+Sparse Allreduce Time: 0.00930668s
+Dense Allreduce Time: 0.00289117s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99788.6
+Sparse Vector Non-Zero Elements: 568454
+Results Match!
+Number of Processes: 12
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 5.3373e-05s
+Scatter Time: 0.000768848s
+Reduce Time: 0.00369469s
+Allgather Time: 0.00407305s
+Other Time: 0.000168107s
+Sparse Allreduce Time: 0.00875807s
+Dense Allreduce Time: 0.00529367s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99906.9
+Sparse Vector Non-Zero Elements: 716752
+Results Match!
+Number of Processes: 16
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 4.8835e-05s
+Scatter Time: 0.00116116s
+Reduce Time: 0.0048513s
+Allgather Time: 0.00683461s
+Other Time: 0.000330218s
+Sparse Allreduce Time: 0.0132261s
+Dense Allreduce Time: 0.00366307s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99915.2
+Sparse Vector Non-Zero Elements: 813694
+Results Match!
+Number of Processes: 18
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 5.3133e-05s
+Scatter Time: 0.000890344s
+Reduce Time: 0.00464491s
+Allgather Time: 0.00546536s
+Other Time: 1.7182e-05s
+Sparse Allreduce Time: 0.0110709s
+Dense Allreduce Time: 0.00592503s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99893.3
+Sparse Vector Non-Zero Elements: 848975
+Results Match!
+Number of Processes: 24
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 7.1218e-05s
+Scatter Time: 0.000916554s
+Reduce Time: 0.00480132s
+Allgather Time: 0.00664472s
+Other Time: 1.4909e-05s
+Sparse Allreduce Time: 0.0124487s
+Dense Allreduce Time: 0.00610638s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99923
+Sparse Vector Non-Zero Elements: 919818
+Results Match!
+Number of Processes: 32
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000125152s
+Scatter Time: 0.00138042s
+Reduce Time: 0.00527777s
+Allgather Time: 0.00879337s
+Other Time: 0.000212492s
+Sparse Allreduce Time: 0.0157892s
+Dense Allreduce Time: 0.00519488s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99962.5
+Sparse Vector Non-Zero Elements: 965345
+Results Match!
+Number of Processes: 40
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000154139s
+Scatter Time: 0.00116824s
+Reduce Time: 0.00532608s
+Allgather Time: 0.0077734s
+Other Time: 8.3842e-05s
+Sparse Allreduce Time: 0.0145057s
+Dense Allreduce Time: 0.00763311s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99955.6
+Sparse Vector Non-Zero Elements: 985011
+Results Match!
+Number of Processes: 48
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.00014994s
+Scatter Time: 0.00130495s
+Reduce Time: 0.00549163s
+Allgather Time: 0.0103554s
+Other Time: 6.3282e-05s
+Sparse Allreduce Time: 0.0173652s
+Dense Allreduce Time: 0.00861419s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99934.9
+Sparse Vector Non-Zero Elements: 993561
+Results Match!
+Number of Processes: 56
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 7.8702e-05s
+Scatter Time: 0.00167473s
+Reduce Time: 0.00556823s
+Allgather Time: 0.01227s
+Other Time: 1.2076e-05s
+Sparse Allreduce Time: 0.0196037s
+Dense Allreduce Time: 0.00989545s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99957.8
+Sparse Vector Non-Zero Elements: 997257
+Results Match!
+Number of Processes: 64
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 6.8041e-05s
+Scatter Time: 0.0015913s
+Reduce Time: 0.0056852s
+Allgather Time: 0.0147716s
+Other Time: 1.2545e-05s
+Sparse Allreduce Time: 0.0221286s
+Dense Allreduce Time: 0.00915405s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99974
+Sparse Vector Non-Zero Elements: 998801
+Results Match!
+Number of Processes: 72
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000106095s
+Scatter Time: 0.00198435s
+Reduce Time: 0.00584342s
+Allgather Time: 0.0180699s
+Other Time: 1.0791e-05s
+Sparse Allreduce Time: 0.0260145s
+Dense Allreduce Time: 0.0132113s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99974.1
+Sparse Vector Non-Zero Elements: 999478
+Results Match!
+Number of Processes: 80
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000290022s
+Scatter Time: 0.00205585s
+Reduce Time: 0.00604161s
+Allgather Time: 0.0187837s
+Other Time: 1.3004e-05s
+Sparse Allreduce Time: 0.0271842s
+Dense Allreduce Time: 0.0147017s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99964
+Sparse Vector Non-Zero Elements: 999779
+Results Match!
+Number of Processes: 96
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000301344s
+Scatter Time: 0.00244056s
+Reduce Time: 0.00609738s
+Allgather Time: 0.0213075s
+Other Time: 1.0158e-05s
+Sparse Allreduce Time: 0.0301569s
+Dense Allreduce Time: 0.0172166s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99960.3
+Sparse Vector Non-Zero Elements: 999972
+Results Match!
+Number of Processes: 112
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000186792s
+Scatter Time: 0.00294729s
+Reduce Time: 0.00669078s
+Allgather Time: 0.023437s
+Other Time: 1.2335e-05s
+Sparse Allreduce Time: 0.0332742s
+Dense Allreduce Time: 0.0197806s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99943.4
+Sparse Vector Non-Zero Elements: 999994
+Results Match!
+Number of Processes: 128
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000440402s
+Scatter Time: 0.00295432s
+Reduce Time: 0.00663105s
+Allgather Time: 0.0288498s
+Other Time: 2.8225e-05s
+Sparse Allreduce Time: 0.0389038s
+Dense Allreduce Time: 0.0171721s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99953.2
+Sparse Vector Non-Zero Elements: 1000000
+Results Match!
+Sparsity level: 95
+Number of Processes: 2
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 1.1813e-05s
+Scatter Time: 0.000394295s
+Reduce Time: 0.00125306s
+Allgather Time: 0.000631134s
+Other Time: 0.000523434s
+Sparse Allreduce Time: 0.00281374s
+Dense Allreduce Time: 0.001865s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 50062
+Sparse Vector Non-Zero Elements: 97570
+Results Match!
+Number of Processes: 4
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 2.09e-05s
+Scatter Time: 0.0003817s
+Reduce Time: 0.00160756s
+Allgather Time: 0.00202628s
+Other Time: 0.000359377s
+Sparse Allreduce Time: 0.00439581s
+Dense Allreduce Time: 0.00239594s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 49893.5
+Sparse Vector Non-Zero Elements: 185171
+Results Match!
+Number of Processes: 6
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 4.2692e-05s
+Scatter Time: 0.000321302s
+Reduce Time: 0.00174887s
+Allgather Time: 0.00175145s
+Other Time: 1.471e-05s
+Sparse Allreduce Time: 0.00387903s
+Dense Allreduce Time: 0.00486049s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 49894
+Sparse Vector Non-Zero Elements: 264253
+Results Match!
+Number of Processes: 8
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 2.7353e-05s
+Scatter Time: 0.000510329s
+Reduce Time: 0.00196564s
+Allgather Time: 0.00208232s
+Other Time: 1.4978e-05s
+Sparse Allreduce Time: 0.00460062s
+Dense Allreduce Time: 0.00291401s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 49897.6
+Sparse Vector Non-Zero Elements: 335740
+Results Match!
+Number of Processes: 12
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 4.9967e-05s
+Scatter Time: 0.000406788s
+Reduce Time: 0.00191448s
+Allgather Time: 0.00306032s
+Other Time: 1.1453e-05s
+Sparse Allreduce Time: 0.00544301s
+Dense Allreduce Time: 0.00505602s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 49992.3
+Sparse Vector Non-Zero Elements: 459278
+Results Match!
+Number of Processes: 16
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 5.6961e-05s
+Scatter Time: 0.000621505s
+Reduce Time: 0.00243513s
+Allgather Time: 0.00646881s
+Other Time: 1.4097e-05s
+Sparse Allreduce Time: 0.0095965s
+Dense Allreduce Time: 0.00367821s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 49990.6
+Sparse Vector Non-Zero Elements: 559397
+Results Match!
+Number of Processes: 18
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 6.0527e-05s
+Scatter Time: 0.000527353s
+Reduce Time: 0.00216954s
+Allgather Time: 0.00492123s
+Other Time: 1.1594e-05s
+Sparse Allreduce Time: 0.00769024s
+Dense Allreduce Time: 0.00569465s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 49968.1
+Sparse Vector Non-Zero Elements: 602318
+Results Match!
+Number of Processes: 24
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 4.5067e-05s
+Scatter Time: 0.000582509s
+Reduce Time: 0.0023479s
+Allgather Time: 0.0046989s
+Other Time: 8.6789e-05s
+Sparse Allreduce Time: 0.00776117s
+Dense Allreduce Time: 0.00621848s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 49983.1
+Sparse Vector Non-Zero Elements: 707369
+Results Match!
+Number of Processes: 32
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 4.3284e-05s
+Scatter Time: 0.000805201s
+Reduce Time: 0.00268298s
+Allgather Time: 0.0058352s
+Other Time: 0.000170741s
+Sparse Allreduce Time: 0.00953741s
+Dense Allreduce Time: 0.00500527s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 50003.1
+Sparse Vector Non-Zero Elements: 806272
+Results Match!
+Number of Processes: 40
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 9.0275e-05s
+Scatter Time: 0.000788208s
+Reduce Time: 0.00257786s
+Allgather Time: 0.0080592s
+Other Time: 6.7151e-05s
+Sparse Allreduce Time: 0.0115827s
+Dense Allreduce Time: 0.00699624s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 50008.8
+Sparse Vector Non-Zero Elements: 871496
+Results Match!
+Number of Processes: 48
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000114262s
+Scatter Time: 0.000888863s
+Reduce Time: 0.00285139s
+Allgather Time: 0.00988764s
+Other Time: 5.8463e-05s
+Sparse Allreduce Time: 0.0138006s
+Dense Allreduce Time: 0.0086111s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 49991.5
+Sparse Vector Non-Zero Elements: 914384
+Results Match!
+Number of Processes: 56
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 7.4604e-05s
+Scatter Time: 0.00105925s
+Reduce Time: 0.00280331s
+Allgather Time: 0.0117127s
+Other Time: 1.2424e-05s
+Sparse Allreduce Time: 0.0156623s
+Dense Allreduce Time: 0.00955067s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 50001.1
+Sparse Vector Non-Zero Elements: 943411
+Results Match!
+Number of Processes: 64
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000231919s
+Scatter Time: 0.0010718s
+Reduce Time: 0.00288279s
+Allgather Time: 0.0146539s
+Other Time: 1.1273e-05s
+Sparse Allreduce Time: 0.0188517s
+Dense Allreduce Time: 0.00845687s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 50018.7
+Sparse Vector Non-Zero Elements: 962565
+Results Match!
+Number of Processes: 72
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000100395s
+Scatter Time: 0.00129801s
+Reduce Time: 0.00311443s
+Allgather Time: 0.0162858s
+Other Time: 1.5991e-05s
+Sparse Allreduce Time: 0.0208146s
+Dense Allreduce Time: 0.0131601s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 50016.6
+Sparse Vector Non-Zero Elements: 975177
+Results Match!
+Number of Processes: 80
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000160972s
+Scatter Time: 0.00145268s
+Reduce Time: 0.0029598s
+Allgather Time: 0.0178402s
+Other Time: 1.2635e-05s
+Sparse Allreduce Time: 0.0224262s
+Dense Allreduce Time: 0.0138953s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 50004.2
+Sparse Vector Non-Zero Elements: 983600
+Results Match!
+Number of Processes: 96
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000314359s
+Scatter Time: 0.00164033s
+Reduce Time: 0.00309691s
+Allgather Time: 0.0211483s
+Other Time: 1.546e-05s
+Sparse Allreduce Time: 0.0262154s
+Dense Allreduce Time: 0.0169403s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 49996.5
+Sparse Vector Non-Zero Elements: 992794
+Results Match!
+Number of Processes: 112
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000192362s
+Scatter Time: 0.00199179s
+Reduce Time: 0.00313012s
+Allgather Time: 0.0229421s
+Other Time: 9.207e-06s
+Sparse Allreduce Time: 0.0282656s
+Dense Allreduce Time: 0.0198432s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 49994.3
+Sparse Vector Non-Zero Elements: 996915
+Results Match!
+Number of Processes: 128
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.0002583s
+Scatter Time: 0.00225462s
+Reduce Time: 0.0032141s
+Allgather Time: 0.0258603s
+Other Time: 2.5559e-05s
+Sparse Allreduce Time: 0.0316129s
+Dense Allreduce Time: 0.0171105s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 49985.5
+Sparse Vector Non-Zero Elements: 998623
+Results Match!
+Sparsity level: 98
+Number of Processes: 2
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 1.074e-05s
+Scatter Time: 0.000104863s
+Reduce Time: 0.000396046s
+Allgather Time: 0.000110494s
+Other Time: 5.0539e-05s
+Sparse Allreduce Time: 0.000672682s
+Dense Allreduce Time: 0.0016859s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 19947.5
+Sparse Vector Non-Zero Elements: 39499
+Results Match!
+Number of Processes: 4
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 2.582e-05s
+Scatter Time: 0.000157766s
+Reduce Time: 0.00063556s
+Allgather Time: 0.000889412s
+Other Time: 0.000126543s
+Sparse Allreduce Time: 0.0018351s
+Dense Allreduce Time: 0.00262219s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 19933.8
+Sparse Vector Non-Zero Elements: 77369
+Results Match!
+Number of Processes: 6
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 2.9267e-05s
+Scatter Time: 0.000174388s
+Reduce Time: 0.000644587s
+Allgather Time: 0.00139527s
+Other Time: 0.000110885s
+Sparse Allreduce Time: 0.0023544s
+Dense Allreduce Time: 0.00451693s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 19910
+Sparse Vector Non-Zero Elements: 113614
+Results Match!
+Number of Processes: 8
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 3.2673e-05s
+Scatter Time: 0.000228873s
+Reduce Time: 0.000736606s
+Allgather Time: 0.00179497s
+Other Time: 0.000107267s
+Sparse Allreduce Time: 0.00290039s
+Dense Allreduce Time: 0.00275767s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 19929.9
+Sparse Vector Non-Zero Elements: 148733
+Results Match!
+Number of Processes: 12
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 4.3064e-05s
+Scatter Time: 0.000252238s
+Reduce Time: 0.000846439s
+Allgather Time: 0.00226327s
+Other Time: 7.554e-06s
+Sparse Allreduce Time: 0.00341257s
+Dense Allreduce Time: 0.00538536s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 19980.6
+Sparse Vector Non-Zero Elements: 215109
+Results Match!
+Number of Processes: 16
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 3.4076e-05s
+Scatter Time: 0.000303157s
+Reduce Time: 0.000900522s
+Allgather Time: 0.00351102s
+Other Time: 7.274e-06s
+Sparse Allreduce Time: 0.00475604s
+Dense Allreduce Time: 0.00370831s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 20013.8
+Sparse Vector Non-Zero Elements: 276321
+Results Match!
+Number of Processes: 18
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 7.3572e-05s
+Scatter Time: 0.000340018s
+Reduce Time: 0.000785911s
+Allgather Time: 0.00218748s
+Other Time: 8.576e-06s
+Sparse Allreduce Time: 0.00339556s
+Dense Allreduce Time: 0.00615003s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 19987.7
+Sparse Vector Non-Zero Elements: 304613
+Results Match!
+Number of Processes: 24
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 8.1237e-05s
+Scatter Time: 0.000329067s
+Reduce Time: 0.000825399s
+Allgather Time: 0.00254632s
+Other Time: 4.6589e-05s
+Sparse Allreduce Time: 0.00382861s
+Dense Allreduce Time: 0.00607293s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 19994.2
+Sparse Vector Non-Zero Elements: 384115
+Results Match!
+Number of Processes: 32
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000110965s
+Scatter Time: 0.000507833s
+Reduce Time: 0.000990127s
+Allgather Time: 0.00564668s
+Other Time: 0.000104653s
+Sparse Allreduce Time: 0.00736026s
+Dense Allreduce Time: 0.00485085s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 20006
+Sparse Vector Non-Zero Elements: 476259
+Results Match!
+Number of Processes: 40
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000160751s
+Scatter Time: 0.000564934s
+Reduce Time: 0.000965238s
+Allgather Time: 0.00565566s
+Other Time: 1.3286e-05s
+Sparse Allreduce Time: 0.00735987s
+Dense Allreduce Time: 0.00688791s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 20005.2
+Sparse Vector Non-Zero Elements: 554636
+Results Match!
+Number of Processes: 48
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 8.5335e-05s
+Scatter Time: 0.00066089s
+Reduce Time: 0.00104878s
+Allgather Time: 0.00657499s
+Other Time: 9.788e-06s
+Sparse Allreduce Time: 0.00837978s
+Dense Allreduce Time: 0.00877386s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 20008.9
+Sparse Vector Non-Zero Elements: 621248
+Results Match!
+Number of Processes: 56
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 7.6308e-05s
+Scatter Time: 0.00072328s
+Reduce Time: 0.00104478s
+Allgather Time: 0.00894597s
+Other Time: 8.767e-06s
+Sparse Allreduce Time: 0.0107991s
+Dense Allreduce Time: 0.00942814s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 20020.8
+Sparse Vector Non-Zero Elements: 678127
+Results Match!
+Number of Processes: 64
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000204196s
+Scatter Time: 0.00078516s
+Reduce Time: 0.00110278s
+Allgather Time: 0.0102348s
+Other Time: 7.904e-06s
+Sparse Allreduce Time: 0.0123348s
+Dense Allreduce Time: 0.00825887s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 20028.5
+Sparse Vector Non-Zero Elements: 726270
+Results Match!
+Number of Processes: 72
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000164127s
+Scatter Time: 0.00100053s
+Reduce Time: 0.00119596s
+Allgather Time: 0.0138462s
+Other Time: 1.0302e-05s
+Sparse Allreduce Time: 0.0162171s
+Dense Allreduce Time: 0.0120221s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 20024.4
+Sparse Vector Non-Zero Elements: 767092
+Results Match!
+Number of Processes: 80
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.00030476s
+Scatter Time: 0.00120163s
+Reduce Time: 0.00115944s
+Allgather Time: 0.0151339s
+Other Time: 8.848e-06s
+Sparse Allreduce Time: 0.0178086s
+Dense Allreduce Time: 0.0130583s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 20010.9
+Sparse Vector Non-Zero Elements: 801533
+Results Match!
+Number of Processes: 96
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000229384s
+Scatter Time: 0.00121878s
+Reduce Time: 0.00118972s
+Allgather Time: 0.017761s
+Other Time: 7.736e-06s
+Sparse Allreduce Time: 0.0204066s
+Dense Allreduce Time: 0.0157761s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 20003.9
+Sparse Vector Non-Zero Elements: 856198
+Results Match!
+Number of Processes: 112
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.00010856s
+Scatter Time: 0.0016482s
+Reduce Time: 0.00120847s
+Allgather Time: 0.0204251s
+Other Time: 2.9838e-05s
+Sparse Allreduce Time: 0.0234202s
+Dense Allreduce Time: 0.0182367s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 19999.2
+Sparse Vector Non-Zero Elements: 896003
+Results Match!
+Number of Processes: 128
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000286234s
+Scatter Time: 0.00203871s
+Reduce Time: 0.00132505s
+Allgather Time: 0.0243891s
+Other Time: 2.614e-05s
+Sparse Allreduce Time: 0.0280652s
+Dense Allreduce Time: 0.0165012s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 19994.6
+Sparse Vector Non-Zero Elements: 924660
+Results Match!
+Sparsity level: 99
+Number of Processes: 2
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 1.0089e-05s
+Scatter Time: 6.5467e-05s
+Reduce Time: 0.000234184s
+Allgather Time: 5.2351e-05s
+Other Time: 4.99e-06s
+Sparse Allreduce Time: 0.000367081s
+Dense Allreduce Time: 0.00161426s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 9868
+Sparse Vector Non-Zero Elements: 19631
+Results Match!
+Number of Processes: 4
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 1.7053e-05s
+Scatter Time: 8.8732e-05s
+Reduce Time: 0.000245906s
+Allgather Time: 0.000156202s
+Other Time: 2.5821e-05s
+Sparse Allreduce Time: 0.000533714s
+Dense Allreduce Time: 0.0024108s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 9935
+Sparse Vector Non-Zero Elements: 39157
+Results Match!
+Number of Processes: 6
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 3.4457e-05s
+Scatter Time: 0.000107959s
+Reduce Time: 0.000256346s
+Allgather Time: 0.00024266s
+Other Time: 3.907e-06s
+Sparse Allreduce Time: 0.000645329s
+Dense Allreduce Time: 0.00500306s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 9923.33
+Sparse Vector Non-Zero Elements: 58063
+Results Match!
+Number of Processes: 8
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 2.6722e-05s
+Scatter Time: 0.000134169s
+Reduce Time: 0.000307756s
+Allgather Time: 0.000324989s
+Other Time: 4.299e-06s
+Sparse Allreduce Time: 0.000797935s
+Dense Allreduce Time: 0.00291075s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 9930.12
+Sparse Vector Non-Zero Elements: 76714
+Results Match!
+Number of Processes: 12
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 6.179e-05s
+Scatter Time: 0.000171692s
+Reduce Time: 0.000324379s
+Allgather Time: 0.00127805s
+Other Time: 6.5265e-05s
+Sparse Allreduce Time: 0.00190118s
+Dense Allreduce Time: 0.00508668s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 9970.83
+Sparse Vector Non-Zero Elements: 113332
+Results Match!
+Number of Processes: 16
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 2.9477e-05s
+Scatter Time: 0.000220106s
+Reduce Time: 0.000349887s
+Allgather Time: 0.00180014s
+Other Time: 6.6368e-05s
+Sparse Allreduce Time: 0.00246598s
+Dense Allreduce Time: 0.00353579s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 9987.31
+Sparse Vector Non-Zero Elements: 148398
+Results Match!
+Number of Processes: 18
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 5.2822e-05s
+Scatter Time: 0.000247859s
+Reduce Time: 0.000366911s
+Allgather Time: 0.00241992s
+Other Time: 6.7922e-05s
+Sparse Allreduce Time: 0.00315544s
+Dense Allreduce Time: 0.00623696s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 9976.22
+Sparse Vector Non-Zero Elements: 165117
+Results Match!
+Number of Processes: 24
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 4.8895e-05s
+Scatter Time: 0.000292126s
+Reduce Time: 0.00042355s
+Allgather Time: 0.00292353s
+Other Time: 6.3271e-05s
+Sparse Allreduce Time: 0.00375137s
+Dense Allreduce Time: 0.00649485s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 9991.92
+Sparse Vector Non-Zero Elements: 214225
+Results Match!
+Number of Processes: 32
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 5.3163e-05s
+Scatter Time: 0.000416867s
+Reduce Time: 0.000467184s
+Allgather Time: 0.00325996s
+Other Time: 5.8735e-05s
+Sparse Allreduce Time: 0.00425591s
+Dense Allreduce Time: 0.00522231s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 10014.6
+Sparse Vector Non-Zero Elements: 275500
+Results Match!
+Number of Processes: 40
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 7.26e-05s
+Scatter Time: 0.000477825s
+Reduce Time: 0.000484619s
+Allgather Time: 0.00278634s
+Other Time: 3.3253e-05s
+Sparse Allreduce Time: 0.00385464s
+Dense Allreduce Time: 0.00764112s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 10007.3
+Sparse Vector Non-Zero Elements: 331448
+Results Match!
+Number of Processes: 48
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 6.72e-05s
+Scatter Time: 0.00056299s
+Reduce Time: 0.000496532s
+Allgather Time: 0.00442706s
+Other Time: 2.8465e-05s
+Sparse Allreduce Time: 0.00558225s
+Dense Allreduce Time: 0.00863462s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 10008.2
+Sparse Vector Non-Zero Elements: 383234
+Results Match!
+Number of Processes: 56
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000209215s
+Scatter Time: 0.000669626s
+Reduce Time: 0.00049548s
+Allgather Time: 0.0055281s
+Other Time: 2.4567e-05s
+Sparse Allreduce Time: 0.00692699s
+Dense Allreduce Time: 0.00939961s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 10017.4
+Sparse Vector Non-Zero Elements: 431231
+Results Match!
+Number of Processes: 64
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000220547s
+Scatter Time: 0.000654437s
+Reduce Time: 0.000527611s
+Allgather Time: 0.00680723s
+Other Time: 2.4809e-05s
+Sparse Allreduce Time: 0.00823463s
+Dense Allreduce Time: 0.00796402s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 10020
+Sparse Vector Non-Zero Elements: 475651
+Results Match!
+Number of Processes: 72
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000271877s
+Scatter Time: 0.000861668s
+Reduce Time: 0.000579542s
+Allgather Time: 0.00869034s
+Other Time: 8.004e-06s
+Sparse Allreduce Time: 0.0104114s
+Dense Allreduce Time: 0.0123046s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 10017.7
+Sparse Vector Non-Zero Elements: 516149
+Results Match!
+Number of Processes: 80
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.00018073s
+Scatter Time: 0.000825488s
+Reduce Time: 0.000564532s
+Allgather Time: 0.00911002s
+Other Time: 6.303e-06s
+Sparse Allreduce Time: 0.0106871s
+Dense Allreduce Time: 0.0138654s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 10008.9
+Sparse Vector Non-Zero Elements: 553348
+Results Match!
+Number of Processes: 96
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000144259s
+Scatter Time: 0.000704283s
+Reduce Time: 0.0005887s
+Allgather Time: 0.0123434s
+Other Time: 7.214e-06s
+Sparse Allreduce Time: 0.0137878s
+Dense Allreduce Time: 0.0156682s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 10010.5
+Sparse Vector Non-Zero Elements: 619555
+Results Match!
+Number of Processes: 112
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000370257s
+Scatter Time: 0.000725835s
+Reduce Time: 0.000581235s
+Allgather Time: 0.01516s
+Other Time: 6.171e-06s
+Sparse Allreduce Time: 0.0168435s
+Dense Allreduce Time: 0.0182119s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 10006
+Sparse Vector Non-Zero Elements: 675795
+Results Match!
+Number of Processes: 128
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000412108s
+Scatter Time: 0.000830067s
+Reduce Time: 0.000611044s
+Allgather Time: 0.0190695s
+Other Time: 4.898e-06s
+Sparse Allreduce Time: 0.0209276s
+Dense Allreduce Time: 0.0163707s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 10001.7
+Sparse Vector Non-Zero Elements: 723726
+Results Match!
+Sparsity level: 99.5
+Number of Processes: 2
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 1.1101e-05s
+Scatter Time: 4.1962e-05s
+Reduce Time: 0.000109382s
+Allgather Time: 3.2604e-05s
+Other Time: 3.936e-06s
+Sparse Allreduce Time: 0.000198985s
+Dense Allreduce Time: 0.00170485s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 4921
+Sparse Vector Non-Zero Elements: 9821
+Results Match!
+Number of Processes: 4
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 2.4949e-05s
+Scatter Time: 6.2371e-05s
+Reduce Time: 0.000137756s
+Allgather Time: 8.9743e-05s
+Other Time: 1.7905e-05s
+Sparse Allreduce Time: 0.000332724s
+Dense Allreduce Time: 0.00236359s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 4950.5
+Sparse Vector Non-Zero Elements: 19657
+Results Match!
+Number of Processes: 6
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 3.2954e-05s
+Scatter Time: 8.5035e-05s
+Reduce Time: 0.00014429s
+Allgather Time: 0.000120212s
+Other Time: 3.116e-06s
+Sparse Allreduce Time: 0.000385607s
+Dense Allreduce Time: 0.00495908s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 4971.5
+Sparse Vector Non-Zero Elements: 29468
+Results Match!
+Number of Processes: 8
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 2.3817e-05s
+Scatter Time: 0.000117176s
+Reduce Time: 0.000153957s
+Allgather Time: 0.000130302s
+Other Time: 4.5e-06s
+Sparse Allreduce Time: 0.000429752s
+Dense Allreduce Time: 0.00353776s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 4979.25
+Sparse Vector Non-Zero Elements: 39154
+Results Match!
+Number of Processes: 12
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 4.2292e-05s
+Scatter Time: 0.0001295s
+Reduce Time: 0.000177112s
+Allgather Time: 0.000304048s
+Other Time: 3.429e-06s
+Sparse Allreduce Time: 0.000656381s
+Dense Allreduce Time: 0.00549664s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5004
+Sparse Vector Non-Zero Elements: 58427
+Results Match!
+Number of Processes: 16
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 5.9696e-05s
+Scatter Time: 0.000202252s
+Reduce Time: 0.000171892s
+Allgather Time: 0.000331401s
+Other Time: 3.487e-06s
+Sparse Allreduce Time: 0.000768728s
+Dense Allreduce Time: 0.00366364s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5005.19
+Sparse Vector Non-Zero Elements: 77164
+Results Match!
+Number of Processes: 18
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 6.713e-05s
+Scatter Time: 0.00022728s
+Reduce Time: 0.000174147s
+Allgather Time: 0.00121585s
+Other Time: 4.088e-06s
+Sparse Allreduce Time: 0.0016885s
+Dense Allreduce Time: 0.00633803s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 4992
+Sparse Vector Non-Zero Elements: 86138
+Results Match!
+Number of Processes: 24
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 7.9544e-05s
+Scatter Time: 0.000257519s
+Reduce Time: 0.00020165s
+Allgather Time: 0.00152917s
+Other Time: 3.747e-06s
+Sparse Allreduce Time: 0.00207163s
+Dense Allreduce Time: 0.00641421s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 4992.83
+Sparse Vector Non-Zero Elements: 113212
+Results Match!
+Number of Processes: 32
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 4.8524e-05s
+Scatter Time: 0.00038195s
+Reduce Time: 0.000218673s
+Allgather Time: 0.00214424s
+Other Time: 2.3716e-05s
+Sparse Allreduce Time: 0.0028171s
+Dense Allreduce Time: 0.00508977s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5000.81
+Sparse Vector Non-Zero Elements: 148264
+Results Match!
+Number of Processes: 40
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000137376s
+Scatter Time: 0.000362933s
+Reduce Time: 0.000224905s
+Allgather Time: 0.00160881s
+Other Time: 1.6361e-05s
+Sparse Allreduce Time: 0.00235039s
+Dense Allreduce Time: 0.00777333s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5002.3
+Sparse Vector Non-Zero Elements: 181807
+Results Match!
+Number of Processes: 48
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000104513s
+Scatter Time: 0.000317194s
+Reduce Time: 0.000235496s
+Allgather Time: 0.00222688s
+Other Time: 1.7463e-05s
+Sparse Allreduce Time: 0.00290155s
+Dense Allreduce Time: 0.00872011s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5003.83
+Sparse Vector Non-Zero Elements: 214057
+Results Match!
+Number of Processes: 56
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000213433s
+Scatter Time: 0.000385847s
+Reduce Time: 0.000242249s
+Allgather Time: 0.00312591s
+Other Time: 1.5571e-05s
+Sparse Allreduce Time: 0.00398301s
+Dense Allreduce Time: 0.00951541s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5007.55
+Sparse Vector Non-Zero Elements: 245011
+Results Match!
+Number of Processes: 64
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000161292s
+Scatter Time: 0.000403491s
+Reduce Time: 0.000254733s
+Allgather Time: 0.00337861s
+Other Time: 1.5661e-05s
+Sparse Allreduce Time: 0.00421379s
+Dense Allreduce Time: 0.00787745s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5009.33
+Sparse Vector Non-Zero Elements: 274840
+Results Match!
+Number of Processes: 72
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000225627s
+Scatter Time: 0.000467334s
+Reduce Time: 0.000253501s
+Allgather Time: 0.00465102s
+Other Time: 1.7605e-05s
+Sparse Allreduce Time: 0.00561509s
+Dense Allreduce Time: 0.0122618s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5007.64
+Sparse Vector Non-Zero Elements: 303266
+Results Match!
+Number of Processes: 80
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000109201s
+Scatter Time: 0.00050102s
+Reduce Time: 0.000259092s
+Allgather Time: 0.0050629s
+Other Time: 1.7592e-05s
+Sparse Allreduce Time: 0.00594981s
+Dense Allreduce Time: 0.0134315s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5003.82
+Sparse Vector Non-Zero Elements: 330506
+Results Match!
+Number of Processes: 96
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000205057s
+Scatter Time: 0.00060414s
+Reduce Time: 0.000262948s
+Allgather Time: 0.00793716s
+Other Time: 1.545e-05s
+Sparse Allreduce Time: 0.00902476s
+Dense Allreduce Time: 0.0157036s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5001.71
+Sparse Vector Non-Zero Elements: 381801
+Results Match!
+Number of Processes: 112
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000335599s
+Scatter Time: 0.000643756s
+Reduce Time: 0.00026844s
+Allgather Time: 0.0095066s
+Other Time: 3.5368e-05s
+Sparse Allreduce Time: 0.0107898s
+Dense Allreduce Time: 0.0175012s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5000.65
+Sparse Vector Non-Zero Elements: 429476
+Results Match!
+Number of Processes: 128
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.00027875s
+Scatter Time: 0.000793065s
+Reduce Time: 0.000296754s
+Allgather Time: 0.0116192s
+Other Time: 1.5349e-05s
+Sparse Allreduce Time: 0.0130031s
+Dense Allreduce Time: 0.0161138s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5000.45
+Sparse Vector Non-Zero Elements: 473358
+Results Match!
+Sparsity level: 99.9
+Number of Processes: 2
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 1.4668e-05s
+Scatter Time: 1.6542e-05s
+Reduce Time: 1.6251e-05s
+Allgather Time: 1.8656e-05s
+Other Time: 4.721e-06s
+Sparse Allreduce Time: 7.0838e-05s
+Dense Allreduce Time: 0.00189214s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 981
+Sparse Vector Non-Zero Elements: 1961
+Results Match!
+Number of Processes: 4
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 1.8747e-05s
+Scatter Time: 3.621e-05s
+Reduce Time: 2.0589e-05s
+Allgather Time: 4.7231e-05s
+Other Time: 4.73e-06s
+Sparse Allreduce Time: 0.000127507s
+Dense Allreduce Time: 0.00261114s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 1001.75
+Sparse Vector Non-Zero Elements: 3996
+Results Match!
+Number of Processes: 6
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 3.2362e-05s
+Scatter Time: 5.2962e-05s
+Reduce Time: 3.095e-05s
+Allgather Time: 4.8414e-05s
+Other Time: 5.632e-06s
+Sparse Allreduce Time: 0.00017032s
+Dense Allreduce Time: 0.00503301s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 1006.17
+Sparse Vector Non-Zero Elements: 6015
+Results Match!
+Number of Processes: 8
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 2.4868e-05s
+Scatter Time: 7.4764e-05s
+Reduce Time: 2.2123e-05s
+Allgather Time: 5.9706e-05s
+Other Time: 5.13e-06s
+Sparse Allreduce Time: 0.000186591s
+Dense Allreduce Time: 0.00309382s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 996.875
+Sparse Vector Non-Zero Elements: 7944
+Results Match!
+Number of Processes: 12
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 6.3794e-05s
+Scatter Time: 0.000436906s
+Reduce Time: 3.623e-05s
+Allgather Time: 9.9022e-05s
+Other Time: 5.449e-06s
+Sparse Allreduce Time: 0.000641401s
+Dense Allreduce Time: 0.00526945s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 1009.42
+Sparse Vector Non-Zero Elements: 12033
+Results Match!
+Number of Processes: 16
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 4.2202e-05s
+Scatter Time: 8.4313e-05s
+Reduce Time: 2.6401e-05s
+Allgather Time: 9.2138e-05s
+Other Time: 4.981e-06s
+Sparse Allreduce Time: 0.000250035s
+Dense Allreduce Time: 0.00363562s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 1005.31
+Sparse Vector Non-Zero Elements: 15945
+Results Match!
+Number of Processes: 18
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 7.2941e-05s
+Scatter Time: 0.000482073s
+Reduce Time: 3.1271e-05s
+Allgather Time: 0.000562259s
+Other Time: 2.434e-06s
+Sparse Allreduce Time: 0.00115098s
+Dense Allreduce Time: 0.0056351s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 1003.56
+Sparse Vector Non-Zero Elements: 17896
+Results Match!
+Number of Processes: 24
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 8.1848e-05s
+Scatter Time: 0.0001392s
+Reduce Time: 4.4055e-05s
+Allgather Time: 0.000143928s
+Other Time: 7.185e-06s
+Sparse Allreduce Time: 0.000416216s
+Dense Allreduce Time: 0.00597716s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 998.042
+Sparse Vector Non-Zero Elements: 23674
+Results Match!
+Number of Processes: 32
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 3.2092e-05s
+Scatter Time: 0.000205578s
+Reduce Time: 3.4737e-05s
+Allgather Time: 0.000206419s
+Other Time: 3.418e-06s
+Sparse Allreduce Time: 0.000482244s
+Dense Allreduce Time: 0.00539244s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 998.188
+Sparse Vector Non-Zero Elements: 31463
+Results Match!
+Number of Processes: 40
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000141414s
+Scatter Time: 0.000154609s
+Reduce Time: 4.4436e-05s
+Allgather Time: 0.000486491s
+Other Time: 5.572e-06s
+Sparse Allreduce Time: 0.000832522s
+Dense Allreduce Time: 0.00749031s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 998.475
+Sparse Vector Non-Zero Elements: 39162
+Results Match!
+Number of Processes: 48
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 6.9624e-05s
+Scatter Time: 0.000224655s
+Reduce Time: 3.6591e-05s
+Allgather Time: 0.000610882s
+Other Time: 5.582e-06s
+Sparse Allreduce Time: 0.000947334s
+Dense Allreduce Time: 0.00869539s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 998.083
+Sparse Vector Non-Zero Elements: 46784
+Results Match!
+Number of Processes: 56
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.00017582s
+Scatter Time: 0.000253822s
+Reduce Time: 3.8284e-05s
+Allgather Time: 0.000759179s
+Other Time: 5.832e-06s
+Sparse Allreduce Time: 0.00123294s
+Dense Allreduce Time: 0.00946463s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 997.196
+Sparse Vector Non-Zero Elements: 54272
+Results Match!
+Number of Processes: 64
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000172855s
+Scatter Time: 0.000240947s
+Reduce Time: 4.6941e-05s
+Allgather Time: 0.000887628s
+Other Time: 5.149e-06s
+Sparse Allreduce Time: 0.00135352s
+Dense Allreduce Time: 0.00785158s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 998.703
+Sparse Vector Non-Zero Elements: 61884
+Results Match!
+Number of Processes: 72
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000139079s
+Scatter Time: 0.000268179s
+Reduce Time: 4.102e-05s
+Allgather Time: 0.00118775s
+Other Time: 2.885e-06s
+Sparse Allreduce Time: 0.00163891s
+Dense Allreduce Time: 0.0117383s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 997.389
+Sparse Vector Non-Zero Elements: 69261
+Results Match!
+Number of Processes: 80
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 9.1908e-05s
+Scatter Time: 0.000317234s
+Reduce Time: 4.1731e-05s
+Allgather Time: 0.0014224s
+Other Time: 6.382e-06s
+Sparse Allreduce Time: 0.00187966s
+Dense Allreduce Time: 0.0136579s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 997.375
+Sparse Vector Non-Zero Elements: 76667
+Results Match!
+Number of Processes: 96
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.000308296s
+Scatter Time: 0.000410104s
+Reduce Time: 4.9084e-05s
+Allgather Time: 0.00186407s
+Other Time: 4.7e-06s
+Sparse Allreduce Time: 0.00263625s
+Dense Allreduce Time: 0.0162296s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 996.781
+Sparse Vector Non-Zero Elements: 91229
+Results Match!
+Number of Processes: 112
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.00010349s
+Scatter Time: 0.000393471s
+Reduce Time: 4.9446e-05s
+Allgather Time: 0.00209691s
+Other Time: 5.682e-06s
+Sparse Allreduce Time: 0.002649s
+Dense Allreduce Time: 0.0179596s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 996.321
+Sparse Vector Non-Zero Elements: 105497
+Results Match!
+Number of Processes: 128
+Timing: rank 0, 1 measured iteration after 3 warmups
+Split Time: 0.00021732s
+Scatter Time: 0.000531719s
+Reduce Time: 5.0778e-05s
+Allgather Time: 0.00246783s
+Other Time: 5.712e-06s
+Sparse Allreduce Time: 0.00327336s
+Dense Allreduce Time: 0.0150276s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 997.633
+Sparse Vector Non-Zero Elements: 119767
+Results Match!

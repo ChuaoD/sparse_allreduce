@@ -1,0 +1,15 @@
+# Build output
+build/
+build_old/
+
+# Cluster batch scripts and their job logs (kept locally, not published)
+scaling/*.sh
+*.out
+*.err
+
+# Report source (only report.pdf is published)
+report.tex
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/

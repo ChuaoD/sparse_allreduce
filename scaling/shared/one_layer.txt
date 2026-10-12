@@ -1,0 +1,547 @@
+Pattern: shared
+Sparsity level: 90
+Number of elements: 10000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000415052s
+Dense Allreduce Time: 0.000183495s
+Sparse Allreduce Range: 0.00039821s - 0.000582907s
+Dense Allreduce Range: 0.000179918s - 0.000189927s
+Sparse Vector Length: 10000
+Mean Input Non-Zero Elements: 994
+Sparse Vector Non-Zero Elements: 994
+Results Match!
+Number of elements: 20000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00057435s
+Dense Allreduce Time: 0.00028998s
+Sparse Allreduce Range: 0.000535064s - 0.000787743s
+Dense Allreduce Range: 0.000276835s - 0.000306723s
+Sparse Vector Length: 20000
+Mean Input Non-Zero Elements: 2040
+Sparse Vector Non-Zero Elements: 2040
+Results Match!
+Number of elements: 50000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000837058s
+Dense Allreduce Time: 0.000583098s
+Sparse Allreduce Range: 0.000820676s - 0.00108485s
+Dense Allreduce Range: 0.000576965s - 0.000597034s
+Sparse Vector Length: 50000
+Mean Input Non-Zero Elements: 4975
+Sparse Vector Non-Zero Elements: 4975
+Results Match!
+Number of elements: 100000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00183782s
+Dense Allreduce Time: 0.00106979s
+Sparse Allreduce Range: 0.00163076s - 0.00191766s
+Dense Allreduce Range: 0.00102037s - 0.00107884s
+Sparse Vector Length: 100000
+Mean Input Non-Zero Elements: 9845
+Sparse Vector Non-Zero Elements: 9845
+Results Match!
+Number of elements: 200000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00232121s
+Dense Allreduce Time: 0.00208561s
+Sparse Allreduce Range: 0.00217811s - 0.002456s
+Dense Allreduce Range: 0.00199876s - 0.00223407s
+Sparse Vector Length: 200000
+Mean Input Non-Zero Elements: 19752
+Sparse Vector Non-Zero Elements: 19752
+Results Match!
+Number of elements: 500000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00405192s
+Dense Allreduce Time: 0.00507918s
+Sparse Allreduce Range: 0.00368708s - 0.00425451s
+Dense Allreduce Range: 0.00504334s - 0.00525284s
+Sparse Vector Length: 500000
+Mean Input Non-Zero Elements: 49855
+Sparse Vector Non-Zero Elements: 49855
+Results Match!
+Number of elements: 1000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00695024s
+Dense Allreduce Time: 0.00884313s
+Sparse Allreduce Range: 0.0068843s - 0.0075923s
+Dense Allreduce Range: 0.00879721s - 0.00927675s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 99560
+Sparse Vector Non-Zero Elements: 99560
+Results Match!
+Number of elements: 2000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.0132818s
+Dense Allreduce Time: 0.0175819s
+Sparse Allreduce Range: 0.0129558s - 0.013804s
+Dense Allreduce Range: 0.017184s - 0.0180811s
+Sparse Vector Length: 2000000
+Mean Input Non-Zero Elements: 199406
+Sparse Vector Non-Zero Elements: 199406
+Results Match!
+Number of elements: 5000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.0330677s
+Dense Allreduce Time: 0.0419936s
+Sparse Allreduce Range: 0.0321884s - 0.0360183s
+Dense Allreduce Range: 0.0416992s - 0.0425608s
+Sparse Vector Length: 5000000
+Mean Input Non-Zero Elements: 498917
+Sparse Vector Non-Zero Elements: 498917
+Results Match!
+Sparsity level: 95
+Number of elements: 10000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000396446s
+Dense Allreduce Time: 0.000189136s
+Sparse Allreduce Range: 0.00035173s - 0.000556987s
+Dense Allreduce Range: 0.00018145s - 0.00019155s
+Sparse Vector Length: 10000
+Mean Input Non-Zero Elements: 481
+Sparse Vector Non-Zero Elements: 481
+Results Match!
+Number of elements: 20000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000422577s
+Dense Allreduce Time: 0.000286905s
+Sparse Allreduce Range: 0.000378872s - 0.000642562s
+Dense Allreduce Range: 0.000268379s - 0.00030003s
+Sparse Vector Length: 20000
+Mean Input Non-Zero Elements: 1008
+Sparse Vector Non-Zero Elements: 1008
+Results Match!
+Number of elements: 50000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000631991s
+Dense Allreduce Time: 0.000571325s
+Sparse Allreduce Range: 0.000611471s - 0.000848149s
+Dense Allreduce Range: 0.000557458s - 0.000608185s
+Sparse Vector Length: 50000
+Mean Input Non-Zero Elements: 2458
+Sparse Vector Non-Zero Elements: 2458
+Results Match!
+Number of elements: 100000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000861826s
+Dense Allreduce Time: 0.00101597s
+Sparse Allreduce Range: 0.000849562s - 0.00105889s
+Dense Allreduce Range: 0.000980274s - 0.00105383s
+Sparse Vector Length: 100000
+Mean Input Non-Zero Elements: 4944
+Sparse Vector Non-Zero Elements: 4944
+Results Match!
+Number of elements: 200000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00174335s
+Dense Allreduce Time: 0.00197935s
+Sparse Allreduce Range: 0.00170162s - 0.00208863s
+Dense Allreduce Range: 0.00191494s - 0.00200041s
+Sparse Vector Length: 200000
+Mean Input Non-Zero Elements: 9965
+Sparse Vector Non-Zero Elements: 9965
+Results Match!
+Number of elements: 500000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00254727s
+Dense Allreduce Time: 0.00455142s
+Sparse Allreduce Range: 0.00241765s - 0.00263125s
+Dense Allreduce Range: 0.00443793s - 0.00460221s
+Sparse Vector Length: 500000
+Mean Input Non-Zero Elements: 25279
+Sparse Vector Non-Zero Elements: 25279
+Results Match!
+Number of elements: 1000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00387654s
+Dense Allreduce Time: 0.00793247s
+Sparse Allreduce Range: 0.00381465s - 0.00409835s
+Dense Allreduce Range: 0.0076608s - 0.00813845s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 50013
+Sparse Vector Non-Zero Elements: 50013
+Results Match!
+Number of elements: 2000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00768127s
+Dense Allreduce Time: 0.015871s
+Sparse Allreduce Range: 0.00755937s - 0.00792794s
+Dense Allreduce Range: 0.0156183s - 0.0160795s
+Sparse Vector Length: 2000000
+Mean Input Non-Zero Elements: 99771
+Sparse Vector Non-Zero Elements: 99771
+Results Match!
+Number of elements: 5000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.0160995s
+Dense Allreduce Time: 0.0407317s
+Sparse Allreduce Range: 0.0158888s - 0.0165147s
+Dense Allreduce Range: 0.0404666s - 0.0410198s
+Sparse Vector Length: 5000000
+Mean Input Non-Zero Elements: 249448
+Sparse Vector Non-Zero Elements: 249448
+Results Match!
+Sparsity level: 98
+Number of elements: 10000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000333034s
+Dense Allreduce Time: 0.000182904s
+Sparse Allreduce Range: 0.000309198s - 0.000581003s
+Dense Allreduce Range: 0.000177864s - 0.000192332s
+Sparse Vector Length: 10000
+Mean Input Non-Zero Elements: 205
+Sparse Vector Non-Zero Elements: 205
+Results Match!
+Number of elements: 20000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000354205s
+Dense Allreduce Time: 0.000287416s
+Sparse Allreduce Range: 0.000328685s - 0.000551135s
+Dense Allreduce Range: 0.00027948s - 0.000305971s
+Sparse Vector Length: 20000
+Mean Input Non-Zero Elements: 411
+Sparse Vector Non-Zero Elements: 411
+Results Match!
+Number of elements: 50000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000406877s
+Dense Allreduce Time: 0.000565834s
+Sparse Allreduce Range: 0.000398741s - 0.000593958s
+Dense Allreduce Range: 0.000553319s - 0.000588017s
+Sparse Vector Length: 50000
+Mean Input Non-Zero Elements: 966
+Sparse Vector Non-Zero Elements: 966
+Results Match!
+Number of elements: 100000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000574982s
+Dense Allreduce Time: 0.00105384s
+Sparse Allreduce Range: 0.000545113s - 0.000763325s
+Dense Allreduce Range: 0.00104403s - 0.00109114s
+Sparse Vector Length: 100000
+Mean Input Non-Zero Elements: 1943
+Sparse Vector Non-Zero Elements: 1943
+Results Match!
+Number of elements: 200000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000802522s
+Dense Allreduce Time: 0.00198983s
+Sparse Allreduce Range: 0.000772302s - 0.000937302s
+Dense Allreduce Range: 0.00193663s - 0.00201534s
+Sparse Vector Length: 200000
+Mean Input Non-Zero Elements: 3988
+Sparse Vector Non-Zero Elements: 3988
+Results Match!
+Number of elements: 500000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00170536s
+Dense Allreduce Time: 0.004636s
+Sparse Allreduce Range: 0.00164326s - 0.00190342s
+Dense Allreduce Range: 0.00441306s - 0.00468298s
+Sparse Vector Length: 500000
+Mean Input Non-Zero Elements: 10069
+Sparse Vector Non-Zero Elements: 10069
+Results Match!
+Number of elements: 1000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00217683s
+Dense Allreduce Time: 0.00721631s
+Sparse Allreduce Range: 0.00215365s - 0.00245259s
+Dense Allreduce Range: 0.00708793s - 0.00737026s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 20157
+Sparse Vector Non-Zero Elements: 20157
+Results Match!
+Number of elements: 2000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00322994s
+Dense Allreduce Time: 0.0154146s
+Sparse Allreduce Range: 0.00315585s - 0.00359608s
+Dense Allreduce Range: 0.0152295s - 0.0157795s
+Sparse Vector Length: 2000000
+Mean Input Non-Zero Elements: 40044
+Sparse Vector Non-Zero Elements: 40044
+Results Match!
+Number of elements: 5000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00720111s
+Dense Allreduce Time: 0.0403253s
+Sparse Allreduce Range: 0.00705245s - 0.00737336s
+Dense Allreduce Range: 0.0396416s - 0.0408152s
+Sparse Vector Length: 5000000
+Mean Input Non-Zero Elements: 99813
+Sparse Vector Non-Zero Elements: 99813
+Results Match!
+Sparsity level: 99
+Number of elements: 10000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000283639s
+Dense Allreduce Time: 0.00017622s
+Sparse Allreduce Range: 0.00025373s - 0.000475519s
+Dense Allreduce Range: 0.000172242s - 0.000193894s
+Sparse Vector Length: 10000
+Mean Input Non-Zero Elements: 104
+Sparse Vector Non-Zero Elements: 104
+Results Match!
+Number of elements: 20000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00032049s
+Dense Allreduce Time: 0.000287745s
+Sparse Allreduce Range: 0.000305961s - 0.000528511s
+Dense Allreduce Range: 0.000285722s - 0.00030506s
+Sparse Vector Length: 20000
+Mean Input Non-Zero Elements: 209
+Sparse Vector Non-Zero Elements: 209
+Results Match!
+Number of elements: 50000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000378973s
+Dense Allreduce Time: 0.000550464s
+Sparse Allreduce Range: 0.000349966s - 0.000586925s
+Dense Allreduce Range: 0.000549852s - 0.000561556s
+Sparse Vector Length: 50000
+Mean Input Non-Zero Elements: 478
+Sparse Vector Non-Zero Elements: 478
+Results Match!
+Number of elements: 100000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000423288s
+Dense Allreduce Time: 0.0010296s
+Sparse Allreduce Range: 0.000387329s - 0.000611662s
+Dense Allreduce Range: 0.00099333s - 0.00104462s
+Sparse Vector Length: 100000
+Mean Input Non-Zero Elements: 971
+Sparse Vector Non-Zero Elements: 971
+Results Match!
+Number of elements: 200000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000571464s
+Dense Allreduce Time: 0.00186459s
+Sparse Allreduce Range: 0.000562266s - 0.000763996s
+Dense Allreduce Range: 0.00182737s - 0.00198967s
+Sparse Vector Length: 200000
+Mean Input Non-Zero Elements: 2030
+Sparse Vector Non-Zero Elements: 2030
+Results Match!
+Number of elements: 500000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000915309s
+Dense Allreduce Time: 0.004278s
+Sparse Allreduce Range: 0.000882706s - 0.00104165s
+Dense Allreduce Range: 0.00415316s - 0.00428517s
+Sparse Vector Length: 500000
+Mean Input Non-Zero Elements: 5059
+Sparse Vector Non-Zero Elements: 5059
+Results Match!
+Number of elements: 1000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00173996s
+Dense Allreduce Time: 0.00735374s
+Sparse Allreduce Range: 0.0016341s - 0.00201679s
+Dense Allreduce Range: 0.00727609s - 0.00752724s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 10106
+Sparse Vector Non-Zero Elements: 10106
+Results Match!
+Number of elements: 2000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00229567s
+Dense Allreduce Time: 0.0155089s
+Sparse Allreduce Range: 0.00215106s - 0.00255974s
+Dense Allreduce Range: 0.0152165s - 0.0156156s
+Sparse Vector Length: 2000000
+Mean Input Non-Zero Elements: 20051
+Sparse Vector Non-Zero Elements: 20051
+Results Match!
+Number of elements: 5000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00386301s
+Dense Allreduce Time: 0.0401624s
+Sparse Allreduce Range: 0.00382477s - 0.0040686s
+Dense Allreduce Range: 0.0395871s - 0.0409146s
+Sparse Vector Length: 5000000
+Mean Input Non-Zero Elements: 50019
+Sparse Vector Non-Zero Elements: 50019
+Results Match!
+Sparsity level: 99.5
+Number of elements: 10000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000268039s
+Dense Allreduce Time: 0.000189867s
+Sparse Allreduce Range: 0.000238792s - 0.000435582s
+Dense Allreduce Range: 0.000179316s - 0.000225647s
+Sparse Vector Length: 10000
+Mean Input Non-Zero Elements: 59
+Sparse Vector Non-Zero Elements: 59
+Results Match!
+Number of elements: 20000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000271906s
+Dense Allreduce Time: 0.00028466s
+Sparse Allreduce Range: 0.000251477s - 0.000474216s
+Dense Allreduce Range: 0.000277907s - 0.000300792s
+Sparse Vector Length: 20000
+Mean Input Non-Zero Elements: 116
+Sparse Vector Non-Zero Elements: 116
+Results Match!
+Number of elements: 50000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000345368s
+Dense Allreduce Time: 0.000553409s
+Sparse Allreduce Range: 0.000330128s - 0.000535916s
+Dense Allreduce Range: 0.000535615s - 0.000578157s
+Sparse Vector Length: 50000
+Mean Input Non-Zero Elements: 246
+Sparse Vector Non-Zero Elements: 246
+Results Match!
+Number of elements: 100000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000394713s
+Dense Allreduce Time: 0.00100629s
+Sparse Allreduce Range: 0.000349856s - 0.000570423s
+Dense Allreduce Range: 0.000994091s - 0.00106073s
+Sparse Vector Length: 100000
+Mean Input Non-Zero Elements: 490
+Sparse Vector Non-Zero Elements: 490
+Results Match!
+Number of elements: 200000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000423168s
+Dense Allreduce Time: 0.00192543s
+Sparse Allreduce Range: 0.000401917s - 0.000545564s
+Dense Allreduce Range: 0.00188385s - 0.00196221s
+Sparse Vector Length: 200000
+Mean Input Non-Zero Elements: 1029
+Sparse Vector Non-Zero Elements: 1029
+Results Match!
+Number of elements: 500000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000702919s
+Dense Allreduce Time: 0.00380604s
+Sparse Allreduce Range: 0.000664544s - 0.000848569s
+Dense Allreduce Range: 0.00371469s - 0.00389284s
+Sparse Vector Length: 500000
+Mean Input Non-Zero Elements: 2564
+Sparse Vector Non-Zero Elements: 2564
+Results Match!
+Number of elements: 1000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00102425s
+Dense Allreduce Time: 0.00753422s
+Sparse Allreduce Range: 0.000899258s - 0.00108537s
+Dense Allreduce Range: 0.00737988s - 0.00794797s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 5114
+Sparse Vector Non-Zero Elements: 5114
+Results Match!
+Number of elements: 2000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00177182s
+Dense Allreduce Time: 0.0154769s
+Sparse Allreduce Range: 0.00164545s - 0.00202861s
+Dense Allreduce Range: 0.0153299s - 0.0158398s
+Sparse Vector Length: 2000000
+Mean Input Non-Zero Elements: 10073
+Sparse Vector Non-Zero Elements: 10073
+Results Match!
+Number of elements: 5000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.00249844s
+Dense Allreduce Time: 0.0400269s
+Sparse Allreduce Range: 0.00245751s - 0.0026799s
+Dense Allreduce Range: 0.0399917s - 0.0403272s
+Sparse Vector Length: 5000000
+Mean Input Non-Zero Elements: 25021
+Sparse Vector Non-Zero Elements: 25021
+Results Match!
+Sparsity level: 99.9
+Number of elements: 10000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000190368s
+Dense Allreduce Time: 0.000179217s
+Sparse Allreduce Range: 0.000172022s - 0.000395795s
+Dense Allreduce Range: 0.000176211s - 0.000199085s
+Sparse Vector Length: 10000
+Mean Input Non-Zero Elements: 15
+Sparse Vector Non-Zero Elements: 15
+Results Match!
+Number of elements: 20000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000206229s
+Dense Allreduce Time: 0.000291774s
+Sparse Allreduce Range: 0.000182433s - 0.000386727s
+Dense Allreduce Range: 0.000286444s - 0.000336601s
+Sparse Vector Length: 20000
+Mean Input Non-Zero Elements: 27
+Sparse Vector Non-Zero Elements: 27
+Results Match!
+Number of elements: 50000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000256556s
+Dense Allreduce Time: 0.000573849s
+Sparse Allreduce Range: 0.000242829s - 0.000445832s
+Dense Allreduce Range: 0.000539623s - 0.000589409s
+Sparse Vector Length: 50000
+Mean Input Non-Zero Elements: 48
+Sparse Vector Non-Zero Elements: 48
+Results Match!
+Number of elements: 100000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.0002997s
+Dense Allreduce Time: 0.0010286s
+Sparse Allreduce Range: 0.000276684s - 0.000485408s
+Dense Allreduce Range: 0.000996155s - 0.00104512s
+Sparse Vector Length: 100000
+Mean Input Non-Zero Elements: 79
+Sparse Vector Non-Zero Elements: 79
+Results Match!
+Number of elements: 200000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000334616s
+Dense Allreduce Time: 0.00184821s
+Sparse Allreduce Range: 0.00031056s - 0.000447285s
+Dense Allreduce Range: 0.00180315s - 0.00188907s
+Sparse Vector Length: 200000
+Mean Input Non-Zero Elements: 194
+Sparse Vector Non-Zero Elements: 194
+Results Match!
+Number of elements: 500000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000399652s
+Dense Allreduce Time: 0.00435663s
+Sparse Allreduce Range: 0.000383982s - 0.000593527s
+Dense Allreduce Range: 0.00432287s - 0.00464116s
+Sparse Vector Length: 500000
+Mean Input Non-Zero Elements: 490
+Sparse Vector Non-Zero Elements: 490
+Results Match!
+Number of elements: 1000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000468676s
+Dense Allreduce Time: 0.00734719s
+Sparse Allreduce Range: 0.000461953s - 0.000596582s
+Dense Allreduce Range: 0.00719549s - 0.00757754s
+Sparse Vector Length: 1000000
+Mean Input Non-Zero Elements: 959
+Sparse Vector Non-Zero Elements: 959
+Results Match!
+Number of elements: 2000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000606533s
+Dense Allreduce Time: 0.0154501s
+Sparse Allreduce Range: 0.000568959s - 0.000780529s
+Dense Allreduce Range: 0.0151927s - 0.0156197s
+Sparse Vector Length: 2000000
+Mean Input Non-Zero Elements: 1935
+Sparse Vector Non-Zero Elements: 1935
+Results Match!
+Number of elements: 5000000
+Timing: median of 5 per-iteration rank maxima after 3 warmups
+Sparse Allreduce Time: 0.000915669s
+Dense Allreduce Time: 0.0404863s
+Sparse Allreduce Range: 0.000898586s - 0.0011135s
+Dense Allreduce Range: 0.0401987s - 0.0405801s
+Sparse Vector Length: 5000000
+Mean Input Non-Zero Elements: 4908
+Sparse Vector Non-Zero Elements: 4908
+Results Match!
